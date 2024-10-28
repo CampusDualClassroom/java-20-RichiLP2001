@@ -10,6 +10,7 @@ public class Person {
 	}
 
 	public void getDetails() {
+
 		System.out.println("Nombre completo: " + name + " " + surname);
 	}
 }
